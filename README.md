@@ -32,7 +32,7 @@ This repository name will be used in below mentioned dependency.
 4. git commit -m "your commit name "
 5. git remote add origin yougithubrepositorylink
 6. git push origin master
-7. Go to your created repository in github add create release tag with version.
+7. Go to your created repository in github and create release tag with version.
 
 ## How to user your library project from github as gradle dependency
 
