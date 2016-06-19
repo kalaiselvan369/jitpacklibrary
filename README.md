@@ -36,7 +36,7 @@ This repository name will be used in below mentioned dependency.
 
 ## How to user your library project from github as gradle dependency
 
-Add this to any of your android project level build.gradle
+Add this to any of your android application project level build.gradle
 
 ```java
 allprojects {
@@ -47,7 +47,7 @@ allprojects {
 }
 ```
 
-Now in you app level build.gradle add dependency as
+Now in your app level build.gradle add dependency as
 
 ``` compile ('com.github.yourNameInGithub:yourRepositoryName:releaseTagVersion') ```
 
