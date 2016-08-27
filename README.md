@@ -15,7 +15,7 @@ In your library project or module's build.gradle add
 
 ## Specify group
 
-``` group = 'com.github.youNameInGithub'```
+``` group = 'com.github.yourNameInGithub'```
 
 Once all done run this command in terminal
 
